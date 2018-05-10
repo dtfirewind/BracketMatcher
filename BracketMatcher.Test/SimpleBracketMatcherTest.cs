@@ -53,5 +53,13 @@ namespace BracketMatcher.Test
             var matcher = new SimpleBracketMatcher();
             Assert.Equal(-1,matcher.Match(roundBrackets));
         }
+
+        [Fact]
+        public void TestWithNotMatchedCurlyBrackets()
+        {
+            var roundBrackets = "[12]3{}[12]3()1{{}3[]";
+            var matcher = new SimpleBracketMatcher();
+            Assert.Equal(15,matcher.Match(roundBrackets));
+        }
     }
 }
