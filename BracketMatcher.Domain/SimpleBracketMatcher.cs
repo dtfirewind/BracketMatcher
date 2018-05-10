@@ -16,6 +16,7 @@ namespace BracketMatcher.Domain
         public int Match(string brace)
         {
             int result;
+            
             braces.AddRange(brace);
 
             result = MatchBrackets(roundStartBracket, roundEndBracket);

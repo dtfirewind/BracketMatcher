@@ -1,3 +1,5 @@
 # ignore all binary files
-BracketMatcher.Test/bin
-ma.txt
+BracketMatcher.Test/bin/
+BracketMatcher.Test/obj/
+BracketMatcher.Domain/bin/
+BracketMatcher.Domain/obj/
