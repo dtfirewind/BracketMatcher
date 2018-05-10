@@ -1,8 +1,0 @@
-C:\Users\dtfir\BracketMatcher\BracketMatcher.Domain\bin\Debug\netstandard2.0\BracketMatcher.Domain.deps.json
-C:\Users\dtfir\BracketMatcher\BracketMatcher.Domain\bin\Debug\netstandard2.0\BracketMatcher.Domain.dll
-C:\Users\dtfir\BracketMatcher\BracketMatcher.Domain\bin\Debug\netstandard2.0\BracketMatcher.Domain.pdb
-C:\Users\dtfir\BracketMatcher\BracketMatcher.Domain\obj\Debug\netstandard2.0\BracketMatcher.Domain.csproj.CoreCompileInputs.cache
-C:\Users\dtfir\BracketMatcher\BracketMatcher.Domain\obj\Debug\netstandard2.0\BracketMatcher.Domain.AssemblyInfoInputs.cache
-C:\Users\dtfir\BracketMatcher\BracketMatcher.Domain\obj\Debug\netstandard2.0\BracketMatcher.Domain.AssemblyInfo.cs
-C:\Users\dtfir\BracketMatcher\BracketMatcher.Domain\obj\Debug\netstandard2.0\BracketMatcher.Domain.dll
-C:\Users\dtfir\BracketMatcher\BracketMatcher.Domain\obj\Debug\netstandard2.0\BracketMatcher.Domain.pdb
